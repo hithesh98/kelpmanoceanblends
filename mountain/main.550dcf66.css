@@ -3992,7 +3992,8 @@ button.close {
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
     display: block;
     height: auto;
-    line-height: 1
+    line-height: 1;
+    width: 70%;
 }
 
 @media (-webkit-transform-3d), (transform-3d) {
@@ -4801,6 +4802,7 @@ label {
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
     max-width: 100%
+    
 }
 
 @media (min-width:992px) {
